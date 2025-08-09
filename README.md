@@ -29,17 +29,6 @@ while(true) {
 */
 ```
 
----
-
-## 📅 代码修行日历
-
-> 绿色方块：在写代码
-> 白色方块：在与产品经理互相施展“需求削减术”
-
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=MingxuanZhang\&theme=radical)
-
----
-
 ## 📚 代码笔记阁
 
 ✅ 从 “Stack Overflow 苦行僧” 到 “GPT 驯兽师” 的修炼日志
