@@ -1,52 +1,66 @@
-<!-- 个人简介 -->
-# 👋 Hi, I'm Mingxuan Zhang  
 
-🔧 Full Stack Developer | 🚀 Tech Enthusiast | 📚 Lifelong Learner  
-
-- 🌱 Currently learning **Spring Boot**, **React**, **Docker**
-- 🔭 Working on [Capstone Project 25T2](https://github.com/unsw-cse-comp99-3900/capstone-project-25t2-9900-w16a-cake)
-- 📫 Reach me at: **zhangmingxuan162@gmail.com**
-- 🌍 Based in Australia
+````markdown
+# ⚡ 代码行走江湖录  
+"SpringBoot 是我的刀，React 是我的盾，Docker 是我的坐骑" —— 《全栈浪客行》  
 
 ---
 
-## 🛠 Tech Stack  
-### **Frontend**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7E017?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-### **Backend**
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-
-### **DevOps & Database**
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+## 🤹‍♂️ 人形多线程编译器  
+**// 当前线程状态：**  
+```java
+while(true) {
+    try {
+        writeCode();
+    } catch (BugException e) {
+        drinkCoffee();
+        // ☕ 咖啡因转换公式：咖啡杯数 ∝ 重构次数
+    }
+}
+````
 
 ---
 
-## 📊 GitHub Stats
-![Mingxuan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MingxuanZhang&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MingxuanZhang&layout=compact&theme=radical)
+## 🧩 技术栈武器库
+
+**前端**：React · JavaScript · HTML · CSS
+**后端**：Java · SpringBoot · Flask
+**DevOps**：Docker · GitHub Actions · Nginx
+**数据库**：MySQL · PostgreSQL · Redis
+
+```javascript
+/* 开发者生存守则：
+   当产品经理说 "这个功能很简单" 时，
+   const 风险等级 = Infinity;
+*/
+```
 
 ---
 
-## 🚀 Featured Projects
-- [**Capstone Project 25T2**](https://github.com/unsw-cse-comp99-3900/capstone-project-25t2-9900-w16a-cake) – Student project recommendation system with real-time matching
-- [**Cold Chain Logistics Blockchain**](#) – IoT + Blockchain data traceability system
-- [**Consumer Rights Platform**](#) – Accessible web platform for fraud prevention and guidance
+## 📅 代码修行日历
+
+> 绿色方块：在写代码
+> 白色方块：在与产品经理互相施展“需求削减术”
+
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=MingxuanZhang\&theme=radical)
 
 ---
 
-## 📫 Connect with Me
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:zhangmingxuan162@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MingxuanZhang)
+## 📚 代码笔记阁
+
+✅ 从 “Stack Overflow 苦行僧” 到 “GPT 驯兽师” 的修炼日志
+💡 代表作：
+
+* 《Redis 过期键的120种武功》
+* 《用 Docker Compose 烧一锅满汉全席》
+* 《console.log 调试区块链智能合约的玄学体验》
 
 ---
-⭐️ From [MingxuanZhang](https://github.com/MingxuanZhang)
+
+## 🏆 江湖成就榜
+
+🥇 git push --force 存活大师（成功率100%）
+🥈 精准预判服务器宕机时间（误差±5分钟）
+🥉 用三行 Lua 拯救整个缓存系统（老板震惊）
+🏅 让 Swagger 文档自动生成诗词（专利申请中）
+
+> "生产环境和测试环境不一样，是因为它们在不同的平行宇宙" —— 《程序员自救指南》第6章
